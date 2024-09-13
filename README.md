@@ -16,9 +16,11 @@ Passionate about applying Causal Inference, Machine Learning, and Advanced Stati
 
 **Experience**
 
-<a href="https://www.cint.com/" title="Cint"><img src="icons/cint.png" height="30"/></a> &nbsp; &nbsp;
-<a href="https://causalens.com/" title="causaLens"><img src="icons/causalens.png" height="30"/></a> &nbsp; &nbsp;
-<a href="https://www.dectech.co.uk/" title="Dectech"><img src="icons/dectech.png" height="30"/></a>
+<a href="https://www.cint.com/" title="Cint"><img src="icons/cint.jfif" height="48"/></a> &nbsp;
+<a href="https://causalens.com/" title="causaLens"><img src="icons/causalens.jfif" height="48"/></a> &nbsp;
+<a href="https://www.dectech.co.uk/" title="Dectech"><img src="icons/dectech.jfif" height="48"/></a> &nbsp;
+<a href="https://www.factset.com/" title="Factset"><img src="icons/factset.jfif" height="48"/></a> &nbsp;
+<a href="https://www.theaa.com/" title="Dectech"><img src="icons/theaa.jfif" height="48"/></a>
 <br/><br/>
 
 **Languages**
