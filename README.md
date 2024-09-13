@@ -3,11 +3,25 @@
 
 ---
 
-#### Data Scientist at Cint with 5+ years of experience and a Master’s in Mathematics from the University of Bath.
+#### Data Scientist with 5+ years of experience and a Master’s in Mathematics.
 
 Passionate about applying Causal Inference, Machine Learning, and Advanced Statistical techniques to solve complex problems and drive impactful decision-making.
 
 ---
+
+**Education**
+
+<a href="https://www.bath.ac.uk/" title="University of Bath"><img src="icons/universityofbath.svg" height="48"/></a> &nbsp; &nbsp;
+
+
+
+**Experience**
+
+<a href="https://www.cint.com/" title="Cint"><img src="icons/cint.png" height="30"/></a> &nbsp; &nbsp;
+<a href="https://causalens.com/" title="causaLens"><img src="icons/causalens.png" height="30"/></a> &nbsp; &nbsp;
+<a href="https://www.dectech.co.uk/" title="Dectech"><img src="icons/dectech.png" height="30"/></a>
+
+
 
 **Languages**
 
@@ -16,6 +30,7 @@ Passionate about applying Causal Inference, Machine Learning, and Advanced Stati
 <a href="https://www.iso.org/standard/76583.html" title="SQL"><img src="icons/sql.png" width="48" height="48"/></a> &nbsp;
 <a href="https://www.sas.com/en_gb/home.html" title="SAS"><img src="icons/sas.png" width="48" height="48"/></a> &nbsp;
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="icons/bash.png" width="48" height="48"/></a>
+
 
 
 **Technologies**
