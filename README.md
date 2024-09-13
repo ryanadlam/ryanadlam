@@ -1,5 +1,4 @@
 ## Ryan Adlam
-
 ### Data Scientist | Causal Inference | Machine Learning | Statistics
 
 ---
