@@ -8,7 +8,7 @@ Passionate about applying Causal Inference, Machine Learning, and Advanced Stati
 
 ---
 
-**Language:**
+**Languages**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="48" height="48"/></a> &nbsp;
 <a href="https://www.r-project.org/" title="R"><img src="icons/r.png" width="48" height="48"/></a> &nbsp;
@@ -17,7 +17,7 @@ Passionate about applying Causal Inference, Machine Learning, and Advanced Stati
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="icons/bash.png" width="48" height="48"/></a>
 
 
-**Technologies:**
+**Technologies**
 
 <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.png" width="48" height="48"/></a> &nbsp;
 <a href="https://azure.microsoft.com/en-gb" title="Azure"><img src="icons/azure.png" width="48" height="48"/></a> &nbsp;
