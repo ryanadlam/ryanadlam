@@ -20,7 +20,7 @@ Passionate about applying Causal Inference, Machine Learning, and Advanced Stati
 <a href="https://causalens.com/" title="causaLens"><img src="icons/causalens.jfif" height="48"/></a> &nbsp;
 <a href="https://www.dectech.co.uk/" title="Dectech"><img src="icons/dectech.jfif" height="48"/></a> &nbsp;
 <a href="https://www.factset.com/" title="Factset"><img src="icons/factset.jfif" height="48"/></a> &nbsp;
-<a href="https://www.theaa.com/" title="Dectech"><img src="icons/theaa.jfif" height="48"/></a>
+<a href="https://www.theaa.com/" title="The AA"><img src="icons/theaa.jfif" height="48"/></a>
 <br/><br/>
 
 **Languages**
